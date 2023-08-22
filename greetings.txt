@@ -2,4 +2,5 @@ Hello
 Goodbye
 Test
 This is bug fix
+j
 This is another fix
