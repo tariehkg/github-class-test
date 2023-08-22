@@ -1,3 +1,5 @@
 Hello
 Goodbye
 Test
+This is bug fix
+This is another fix
